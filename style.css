@@ -19,19 +19,19 @@
 }
 
 .tamanhoDiv1{
-    background-color: #047cfc;
+    background-color: #649edb;
     height: 760px;
     width: 700px;
 }
 
 .tamanhoDiv2{
-    background-color: #047cfc;
+    border: 5px solid #649edb;
     height: 300px;
     width: 380px;
 }
 
 .tamanhoDiv3{
-    background-color: #047cfc;
+    border: 5px solid #649edb;
     height: 300px;
     width: 380px;
     margin-top: 50px;
@@ -44,15 +44,15 @@
     border-radius: 10px;
 }
 
-.teste{
-    background-color: #047cfc;
+.corNavTitulo{
+    background-color: #649edb;
 }
 
 .tamanhoDiv4{
     height: 400px;
-    width: 1500px;
+    width: 1100px;
     background-color: white;
-    margin-left: -200px;
+    margin-left: 3px;
 }
 
 .row {
@@ -78,15 +78,22 @@
 }
 
 .cor{
-    background-color: #047cfc;
+    background-color: #649edb;
 }
 
 .formatarBotaoEmbaixo{
     margin-left: 70px;
     margin-top: 15px;
     border-radius: 10px;
+    background-color: yellow;
 }
 
 .fonteTitulo{
     font-size: 30px;
+}
+
+.linha{
+    border: none;
+    border-top: 4px solid yellow;/
+   
 }
